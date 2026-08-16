@@ -1,0 +1,34 @@
+{
+  "build_command": "pnpm run build",
+  "capabilities": [],
+  "dev_command": "pnpm run dev",
+  "env_vars": {},
+  "experiments": null,
+  "git_remote": {
+    "repo_url": "https://7f0548f6b28a1758d9bf7be630d36cb4.artifacts.cloudflare.net/git/prod/hhgzcBUGZPd8yhadjttE2P.git",
+    "expiration": "2026-08-17T14:56:26.480Z",
+    "token": "art_v2_x_ed2fabbb6041992b7c275597784b704d588f20be?expires=1786978586",
+    "backend": "GIT_BACKEND_ARTIFACTS"
+  },
+  "name": "peptix-biotech",
+  "path": "/home/ubuntu/peptix-biotech",
+  "port": 3000,
+  "secrets": {
+    "BUILT_IN_FORGE_API_KEY": "VgbRd83PAtKUL95jiLnEai",
+    "BUILT_IN_FORGE_API_URL": "https://forge.manus.ai",
+    "JWT_SECRET": "QWfsE2JgHq52TA6JwpqHDp",
+    "OAUTH_SERVER_URL": "https://api.manus.im",
+    "OWNER_NAME": "Lucas da Silva Dutra",
+    "OWNER_OPEN_ID": "9aHtQ2gWLZ5m2nsPQe8vsY",
+    "VITE_ANALYTICS_ENDPOINT": "https://manus-analytics.com",
+    "VITE_ANALYTICS_WEBSITE_ID": "4f489156-bf28-4193-953f-4aa22bd77fcc",
+    "VITE_APP_ID": "hhgzcBUGZPd8yhadjttE2P",
+    "VITE_APP_LOGO": "https://files.manuscdn.com/user_upload_by_module/web_dev_logo/310519663699485824/sujVKfxzVbDXsvmQ.png",
+    "VITE_APP_TITLE": "PeptiX Biotech",
+    "VITE_FRONTEND_FORGE_API_KEY": "XonKhitFn5H2JyGnqgAKs4",
+    "VITE_FRONTEND_FORGE_API_URL": "https://forge.manus.ai",
+    "VITE_OAUTH_PORTAL_URL": "https://manus.im"
+  },
+  "template_id": "web-static",
+  "test_command": "pnpm test"
+}
